@@ -1,0 +1,17 @@
+body {
+    font-family: system-ui; /*fonte moderna (compativel com todos os sistemas*/
+    margin: 0; /*Remove margens padrão do navegador */
+    background: #0f0f10;/*Cor fundo escura */
+    color: #e6e6e6; 
+}
+
+    main {/*Estabiliza o container principal */
+    max-width: 720px; /*Loimita a largura máxima (melhora legibilidade em telas grandes) */
+    margin: 48px auto; /*Centraliza horizontalmente e adiciona superior/inferior */
+    padding: 24px; /*Espaçamento interno */ 
+    }
+
+    h1 { /*Estiliza o título H1 */
+    margin: 0 0 12px; /*Margem inferior para separar do parágrafo */
+    
+    }
